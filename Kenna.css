@@ -17,7 +17,6 @@ h1{
 }
 span{
     position: relative;
-    border-width: ;
     transition-property: width;
     transition-duration: 5.5s;
     transition-timing-function: ease-in-out;
