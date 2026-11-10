@@ -4,6 +4,7 @@ body{
 
 
 h1{
+
     margin-top: 10%;
     display: flex;
     align-items: center;
@@ -13,8 +14,7 @@ h1{
     color: bisque;
     font-family: fantasy;
     font-weight: 100;
-    font-size: 100%;
-    font-size: 1000%;
+    font-size: 800%;
     
     animation-name: Slide;
     animation-duration: 15s;
@@ -69,14 +69,13 @@ span:hover{
          margin-top: 10%;
     }
 
-    90%{
+    85%{
         opacity: 0%;
     }
 
     100%{
-        margin-top: 100%;
+        margin-top: 800%;
         opacity: 0%;
     }
     
 }
-
